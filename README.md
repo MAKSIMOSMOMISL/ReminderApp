@@ -30,7 +30,7 @@
 
 ### Сборка
 
-`ash
+```bash
 # Клонируйте репозиторий
 git clone https://github.com/ваш_username/ReminderApp.git
 cd ReminderApp
