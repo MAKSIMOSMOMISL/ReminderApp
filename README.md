@@ -32,7 +32,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/ваш_username/ReminderApp.git
+git clone https://github.com/MAKSIMOSMOMISL/ReminderApp.git
 cd ReminderApp
 
 # Создайте папку сборки
